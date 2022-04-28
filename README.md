@@ -16,6 +16,12 @@ Simulation software which works on commands from the interactive software. The s
     The decisions are genrally based on network flow analysis, but in stimulation are based on a simple random number concept.
   </li>
   </ul>
+  
+  <h1>Technology Used</h1>
+  <ul>
+  <li>Java</li>
+  <li>Maven</li>
+  </ul>
     
 <h1>Usage</h1>
 <ul>
@@ -39,6 +45,7 @@ Simulation software which works on commands from the interactive software. The s
     This file contains the information regarding the final handling of the product by the scanners. 
   </li>
  </ol>
+
  
  
       
