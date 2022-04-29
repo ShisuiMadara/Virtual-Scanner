@@ -1,0 +1,7 @@
+{"BoxId_i64":1,"ScannerNum_i32":110,"BarCode_str":"LPN002","CcsID_i64":1,"message":"Diverted to station"}
+{"BoxId_i64":2,"ScannerNum_i32":120,"BarCode_str":"LPN003","CcsID_i64":1,"message":"Diverted to station"}
+{"BoxId_i64":0,"ScannerNum_i32":140,"BarCode_str":"LPN001","CcsID_i64":1,"message":"Diverted to station"}
+{"BoxId_i64":3,"ScannerNum_i32":120,"BarCode_str":"LPN004","CcsID_i64":1,"message":"Diverted to station"}
+{"BoxId_i64":4,"ScannerNum_i32":120,"BarCode_str":"LPN005","CcsID_i64":1,"message":"Diverted to station"}
+{"BoxId_i64":5,"ScannerNum_i32":120,"BarCode_str":"LPN006","CcsID_i64":1,"message":"Diverted to station"}
+{"BoxId_i64":6,"ScannerNum_i32":120,"BarCode_str":"LPN007","CcsID_i64":1,"message":"Diverted to station"}
